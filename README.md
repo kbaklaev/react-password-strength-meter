@@ -1,10 +1,10 @@
-# SkillCrucial React Redux boilerplate
+# React password strength meter
 
 ## Quick start
 
 1. Clone this repo using:
   ```shell
-  $ git clone git@github.com:ovasylenko/skillcrucial-react-redux-boilerplate.git
+  $ git clone git@github.com:kbaklaev/react-password-strength-meter.git
   ```
 
 2. To install dependencies and clean the git repo run:
